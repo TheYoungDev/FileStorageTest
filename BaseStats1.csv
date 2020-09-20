@@ -1,0 +1,7 @@
+CharacterName,MaxHealth,HealthRegen,Armor,MagicResist,Strength,LifeSteal,AttackSpeed,CristChance,AttackRange,AbilityPower,CoolDownReduction,MaxMana,ManaRegen,MovementSpeed,Tenacity,QCoolDown,WCoolDown,ECoolDown,RCoolDown,QApRatio,WApRatio,EApRatio,RApRatio,QManaCost,WManaCost,EManaCost,RManaCost,QAdRatio,WAdRatio,EAdRatio,RAdRatio,QBaseDmg,WBaseDmg,EBaseDmg,RBaseDmg,FlashCoolDown,HealingMultiplier,AOEMultiplier,SingleTargetMultiplier,CCMultiplier
+ElfArcher,570,3.5,26,30,59,0,0.658,0,600,0,0,280,7,325,0,5,1,14,60,5,1,60,20,20,0,70,100,200,1,100,130,50,-1,20,-1,5,1,1,1,1
+Knight,620,8,36,32,66,0,0.625,0,175,0,0,375,7.2,340,0,13,23,8,60,5,1,60,20,20,0,70,100,200,1,100,130,90 ,-1,75,150,5,1,1,1,1
+FireMage,520,5.5,22,30,57,0,0.625,0,550,0,0,469,11,340,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1
+Druid,504,5.5,29,30,53.4,0,0.625,0,575,0,0,418,13,340,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1
+WaterMage,475,5.5,29,30,51,0,0.644,0,550,0,0,365,11.5,335,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1
+IceMage,532,7,20,30,58,0,0.625,0,525,0,0,425,9.3,335,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1
